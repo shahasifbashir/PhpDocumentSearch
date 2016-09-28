@@ -1,0 +1,14 @@
+
+
+@charset "utf-8";
+/* CSS Document */
+
+#serwrapper{ width:100%; min-height:100px; background:#8EE8DA; border:1px #76E4D7 solid; overflow:hidden  }
+#serwrapper .sheader { padding:30px; width:80%; margin:auto}
+#SearchDiv{ width:30%; height:30px; background:white; float:right; margin-right:-100px;}
+#Searchtxtbox{ height:30px; width:73%; float:left; border:0; outline:none; text-align:center}
+#SearchDiv .searchButton{ height:30px; width:60px; cursor:pointer;float:right; background-color:#F7F7F7; border:0}
+#SearchDiv .searchButton:hover{  font-size:22px; height:30px; width:80px; outline:none }
+#SearchDisplay { min-height:10px; width:60%; border:1px white solid ; margin-top:20px; padding:20px;  max-height::auto; margin-left:90px }
+
+
